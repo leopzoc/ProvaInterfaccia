@@ -1,0 +1,58 @@
+/* Contenitore principale */
+.parent {
+    -fx-background-color: transparent;
+}
+
+.pane {
+    -fx-background-color: rgb(48, 47, 43);
+}
+
+/* Stile del pulsante di registrazione (Blu) */
+.signin-button {
+    -fx-background-color: #007AFF;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 25px;
+    -fx-border-radius: 25px;
+    -fx-padding: 10px 20px;
+    -fx-cursor: hand;
+    -fx-transition: all 0.3s ease;
+}
+
+.signin-button:hover {
+    -fx-background-color: #005BB5;
+}
+
+/* Contenitore della registrazione */
+.login-pane {
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 10px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 10, 0, 0, 0);
+}
+
+/* Stile del titolo */
+.title-label {
+    -fx-font-size: 24px;
+    -fx-text-fill: #333333;
+    -fx-font-weight: bold;
+}
+
+/* Box di input */
+.input-box {
+    -fx-background-color: #F2F2F2;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px;
+    -fx-border-color: #CCCCCC;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+}
+
+.input-field {
+    -fx-background-color: transparent;
+    -fx-border: none;
+    -fx-prompt-text-fill: #AAAAAA;
+    -fx-text-fill: #333333;
+    -fx-font-size: 14px;
+}
+

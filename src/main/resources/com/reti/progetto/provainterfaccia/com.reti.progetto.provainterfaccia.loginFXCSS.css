@@ -1,0 +1,86 @@
+/* Parent Container Style */
+.parent {
+    -fx-background-color: transparent;
+}
+
+/* Pane Container Style */
+.pane {
+    -fx-background-color: rgb(48, 47, 43);
+}
+
+/* White Pane Style */
+.white-pane {
+    -fx-background-color: #FAFAFA;
+    -fx-border-color: #DEDEE4;
+    -fx-border-width: 1px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
+
+/* Login Pane Style */
+.login-pane {
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 10px;
+    -fx-padding: 20px;
+}
+
+/* Title Label Style */
+.title-label {
+    -fx-font-size: 24px;
+    -fx-text-fill: #333333;
+    -fx-font-weight: bold;
+}
+
+/* Input Box Style */
+.input-box {
+    -fx-background-color: #F2F2F2;
+    -fx-background-radius: 5px;
+    -fx-padding: 10;
+    -fx-border-color: #CCCCCC;
+    -fx-border-width: 1;
+    -fx-border-radius: 5px;
+}
+
+/* Input Field Style */
+.input-field {
+    -fx-background-color: transparent;
+    -fx-border: none;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-prompt-text-fill: #AAAAAA;
+    -fx-text-fill: #333333;
+    -fx-font-size: 14px;
+}
+
+/* Sign In Button Style */
+.signin-button {
+    -fx-background-color: #007AFF;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+    -fx-padding: 10 20;
+    -fx-effect: none;
+    -fx-border-color: transparent; /* Rimuove eventuali bordi colorati */
+    -fx-border-width: 0; /* Assicura che non ci siano bordi */
+}
+
+.signin-button:focused,
+.signin-button:pressed {
+    -fx-background-color: #007AFF;
+    -fx-border-color: transparent;
+}
+
+/* Disabilita completamente lo stato di errore o focus per JFXButton */
+.jfx-button:focused, .jfx-button:pressed {
+    -fx-background-color: #007AFF;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+}
+
+/* Input Icon Style */
+.input-icon {
+    -fx-fill: #888888;
+}

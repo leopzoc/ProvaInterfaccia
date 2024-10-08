@@ -4,39 +4,179 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67761ee1-e3f9-447c-a7d2-29b41a81ce6f" name="Changes" comment="" />
+    <list default="true" id="67761ee1-e3f9-447c-a7d2-29b41a81ce6f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/ControllerViewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/ControllerViewMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/LoginRegisterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/LoginRegisterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/LoginRegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/LoginRegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/Login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/Login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/LoginFX.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/LoginFX.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/Main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/Main.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/Register.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/Register.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/com.reti.progetto.provainterfaccia.LoginInizio.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/com.reti.progetto.provainterfaccia.LoginInizio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/com.reti.progetto.provainterfaccia.loginFXCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/com.reti.progetto.provainterfaccia.loginFXCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia/register.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "leopzoc"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/leopzoc/ProvaInterfaccia.git",
+    "accountId": "f31c91d9-99b5-4dd9-922f-57f59eb3d29c"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="customMavenHome" value="/usr/share/maven" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2n3cmDrOknWJQ9hpzGvtnmlQI9I" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginRegisterApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path&quot;: &quot;/home/p_leonardo_c/Scaricati/ikonli-fontawesome5-pack-12.3.1.jar&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Maven.ProvaInterfaccia [--module-path...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ProvaInterfaccia [javafx:run].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/p_leonardo_c/Scaricati/ikonli-fontawesome5-pack-12.3.1.jar&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.reti.progetto.provainterfaccia" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/reti/progetto/provainterfaccia" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/reti/progetto/provainterfaccia" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoginRegisterApplication">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.reti.progetto.provainterfaccia.HelloApplication" />
+      <module name="ProvaInterfaccia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reti.progetto.provainterfaccia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginRegisterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.reti.progetto.provainterfaccia.LoginRegisterApplication" />
+      <module name="ProvaInterfaccia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reti.progetto.provainterfaccia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvaInterfaccia [javafx:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.LoginRegisterApplication" />
+      <item itemvalue="Maven.ProvaInterfaccia [javafx:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginRegisterApplication" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,8 +193,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728205358842</updated>
-      <workItem from="1728205359887" duration="7000" />
+      <workItem from="1728205359887" duration="2548000" />
+      <workItem from="1728207917688" duration="133000" />
+      <workItem from="1728208058644" duration="16950000" />
+      <workItem from="1728285061359" duration="11340000" />
+      <workItem from="1728307878945" duration="2501000" />
+      <workItem from="1728310389629" duration="4309000" />
+      <workItem from="1728314708843" duration="14006000" />
+      <workItem from="1728381634830" duration="378000" />
+      <workItem from="1728382021049" duration="3826000" />
+      <workItem from="1728386781356" duration="11724000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

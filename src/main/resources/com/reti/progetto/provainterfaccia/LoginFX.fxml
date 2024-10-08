@@ -1,14 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.*?>
-<?import javafx.scene.control.*?>
-<?import javafx.scene.layout.*?>
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
 
-<AnchorPane xmlns="http://javafx.com/javafx"
-            xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.reti.progetto.provainterfaccia.LoginFX"
-            prefHeight="400.0" prefWidth="600.0" >
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.ProgressIndicator?>
+<VBox alignment="CENTER" prefHeight="480.0" prefWidth="480.0" styleClass="login-pane" stylesheets="@com.reti.progetto.provainterfaccia.loginFXCSS.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.reti.progetto.provainterfaccia.LoginController">
+    <padding>
+        <Insets bottom="30" left="30" right="30" top="30" />
+    </padding>
+    <children>
+        <!-- Title Label -->
+        <Label alignment="CENTER" contentDisplay="CENTER" styleClass="title-label" text="Login">
+            <VBox.margin>
+                <Insets bottom="20.0" />
+            </VBox.margin>
+        </Label>
 
-</AnchorPane>
+        <Label fx:id="ipErrorLabel" alignment="CENTER_LEFT" style="-fx-text-fill: red;" text=" " />
+
+        <!-- IP Address Field -->
+        <HBox alignment="CENTER_LEFT" spacing="10" styleClass="input-box">
+            <children>
+                <!-- Icon for IP -->
+                <TextField fx:id="ipField" prefWidth="150.0" promptText="IP Address" styleClass="input-field" />
+                <Separator orientation="VERTICAL" />
+
+                <TextField fx:id="porta" prefWidth="150.0" promptText="port" styleClass="input-field" />
+            </children>
+            <VBox.margin>
+                <Insets bottom="15.0" />
+            </VBox.margin>
+        </HBox>
+        <Label alignment="CENTER_LEFT" style="-fx-text-fill: transparent;" text=" " />
+
+
+        <!-- Username Field -->
+        <HBox alignment="CENTER_LEFT" spacing="10" styleClass="input-box">
+            <children>
+                <!-- Icon for Username -->
+                <TextField fx:id="usernameField" promptText="Username" styleClass="input-field" />
+            </children>
+            <VBox.margin>
+                <Insets bottom="15.0" />
+            </VBox.margin>
+        </HBox>
+
+        <Label alignment="CENTER_LEFT" style="-fx-text-fill: transparent;" text=" " />
+
+
+        <!-- Password Fields -->
+        <HBox alignment="CENTER_LEFT" spacing="10" styleClass="input-box">
+            <children>
+                <PasswordField fx:id="passwordField" promptText="Password" styleClass="input-field" />
+
+            </children>
+            <VBox.margin>
+                <Insets bottom="25.0" />
+            </VBox.margin>
+        </HBox>
+        <Label alignment="CENTER_LEFT" style="-fx-text-fill: transparent;" text=" " />
+
+
+        <Label fx:id="statusLabel" alignment="CENTER" style="-fx-text-fill: red;" text=" " />
+
+        <!-- Sign In Button -->
+        <JFXButton fx:id="signinButton" onAction="#connect" prefWidth="200" styleClass="signin-button" text="Entra">
+            <VBox.margin>
+                <Insets top="20.0" />
+            </VBox.margin>
+        </JFXButton>
+        <ProgressIndicator fx:id="loadingIndicator" visible="false" >
+            <VBox.margin>
+                <Insets top="20.0" />
+            </VBox.margin>
+        </ProgressIndicator>
+
+    </children>
+</VBox>
